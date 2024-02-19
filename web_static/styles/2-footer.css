@@ -1,0 +1,15 @@
+footer{
+    color: #FF0000;
+    height: 60px;
+    width: 100%;
+    text-align: center;
+    line-height: 60px;
+    position: fixed;
+    bottom: 0;
+}
+footer span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
